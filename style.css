@@ -7,6 +7,16 @@ padding-top:10px;}
 .price{ color: cadetblue;}
 .buy-now-button{text-decoration: none;
 color: coral; }
-.container{margin-top: 20px;}
-
-
+.container{margin-top: 70px;}
+/* .cat3, .cat2, .cat3{ padding: 10px 25px;}another */
+.cat1{background-color: darkorange; 
+border-radius: 7px;
+padding:10px 30px;}
+.cat2{background-color: gold; border-radius: 7px; 
+    padding:10px 30px;}
+.cat3{background-color: rgb(17, 207, 90); border-radius: 7px;
+    padding:10px 30px; }
+    .categories h1{ color: slategrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} 
+.card{ border: none;
+     box-shadow:2px 2px 10px lightslategrey;}
